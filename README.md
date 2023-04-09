@@ -5,9 +5,9 @@ A selfbot used to automatically help playing Myuu, meaning it will use your Disc
 Disclaimer: Self-bot is against TOS of Discord. I will not take responsible if your bot get banned by Discord. Use the bot at your own risk! I highly recommend to create another account to use the bot.
 
 # BOT ACCESS
-1.) Create a brand new Discord account (recommended).
-2.) Send your new created username and password acccount in step 1 to my Discord account: **Zeraincha#7820** so I can added the account to the system.
-3.) I will contact you again for a full tutorial of the bot with **10 minutes of trying it for free.**
+- 1.) Create a brand new Discord account (recommended).
+- 2.) Send your new created username and password acccount in step 1 to my Discord account: **Zeraincha#7820** so I can added the account to the system.
+- 3.) I will contact you again for a full tutorial of the bot with **10 minutes of trying it for free.**
 
 # Bot Options :-
 ## Breeding Bot
