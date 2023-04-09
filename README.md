@@ -10,7 +10,7 @@ Disclaimer: Self-bot is against TOS of Discord. I will not take responsible if y
 3.) I will contact you again for a full tutorial of the bot with 10 minutes of trying it for free.
 
 # Bot Options :-
-# Breeding Bot
+## Breeding Bot
 Note: This bot does not include shiny hunting.
 
 - Breeding shinies for you: the bot will grab the egg for you, and swap the hatched one into your box automatically!
@@ -24,7 +24,7 @@ Note: This bot does not include shiny hunting.
 Price for this bot is 3$/month per alt (2$ are used for hosting). Payment through Paypal/Paytm.
 (Can sell the source code for 100$, meaning i will give you the whole code and you can easily host it yourself and add whatever amount of alts you wish to with one time payment)
 
-# Shiny Hunting Bot
+## Shiny Hunting Bot
 All the main feature for this Shiny hunting selfbot:
 
 - Playing Myuu for you (auto route with slash commonds you won't even need to keep your discord open or anything, you will have to seirously do nothing just touch grass and come back to see wild shinies in your box)
