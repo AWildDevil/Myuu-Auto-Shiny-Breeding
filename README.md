@@ -13,10 +13,10 @@ Disclaimer: Self-bot is against TOS of Discord. I will not take responsible if y
 # Breeding Bot
 Note: This bot does not include shiny hunting.
 
--> Breeding shinies for you: the bot will grab the egg for you, and swap the hatched one into your box automatically!
--> Connection Free: you can still run the bot without having to touch your phone or internet connection. Setup - run and do what you want in real life, then comeback - and check your box for the result
--> 24/7: bot will always be available to pick up the egg. You can have a night out, get some sleep. Wake up with a box full of Poké babies.
--> Ban risk is 0%: the bot is tested by myself and my alt for 5 months now, no ban, even from Discord. This is the safest self-bot there is because:
+- Breeding shinies for you: the bot will grab the egg for you, and swap the hatched one into your box automatically!
+- Connection Free: you can still run the bot without having to touch your phone or internet connection. Setup - run and do what you want in real life, then comeback - and check your box for the result
+- 24/7: bot will always be available to pick up the egg. You can have a night out, get some sleep. Wake up with a box full of Poké babies.
+- Ban risk is 0%: the bot is tested by myself and my alt for 5 months now, no ban, even from Discord. This is the safest self-bot there is because:
     No spam.
     No flooded your DM.
     Only runs when the egg comes.
@@ -24,7 +24,7 @@ Note: This bot does not include shiny hunting.
 Price for this bot is 3$/month per alt (2$ are used for hosting). Payment through Paypal/Paytm.
 (Can sell the source code for 100$, meaning i will give you the whole code and you can easily host it yourself and add whatever amount of alts you wish to with one time payment)
 
-#Shiny Hunting Bot
+# Shiny Hunting Bot
 All the main feature for this Shiny hunting selfbot:
 
 - Playing Myuu for you (auto route with slash commonds you won't even need to keep your discord open or anything, you will have to seirously do nothing just touch grass and come back to see wild shinies in your box)
