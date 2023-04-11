@@ -34,4 +34,12 @@ All the main feature for this Shiny hunting selfbot:
 Price for this bot is 4$/month per alt (3$ are used for hosting). Payment through Paypal/ Paytm.
 (Can sell the source code for 100$, meaning i will give you the source code and you can host it for whatever amount of alts you wish (even 40-50 at once) with one time payment)
 
+## PKC FOR DOLLARS/Ruppees!!!!
+- 3m for 10$
+- 6m for 20$
+- 12m for 40$
+- 15m for 50$
+- 30m for 100$
+### ***Limited Time Offer***
+
 **FOR MORE INFORMATION CONTACT ME ON Discord - Zeraincha#7820**
